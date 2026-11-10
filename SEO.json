@@ -1,0 +1,22 @@
+{
+  "author": "Imran Ahmed",
+  "email": "me@imrandev.bd",
+  "website": "https://imrandev.bd",
+  "contact": "https://imrandev.bd/contact",
+  "github_owner": "imranbru99",
+  "repoName": "bookstore-library-software",
+  "description": "Bookstore & Library Software — Retail & Education Laravel Filament ERP/SaaS for Bangladesh (Dhaka). Bookstore and library system for catalog, ISBN stock, lending, sales, and publisher orders. Docker-ready. By Imran Ahmed | imrandev.bd",
+  "topics": [
+    "laravel",
+    "filament",
+    "erp",
+    "saas",
+    "bangladesh",
+    "docker",
+    "php",
+    "business-software",
+    "retail-education",
+    "imrandevbd"
+  ],
+  "homepage": "https://imrandev.bd/applications/bookstore-library-software"
+}
